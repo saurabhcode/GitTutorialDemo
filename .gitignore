@@ -1,0 +1,5 @@
+*.log
+dir/
+abc/
+first_renamed.txt
+third.txt
